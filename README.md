@@ -42,20 +42,20 @@ Goethe Zertifikat B1 || Horen Model test 12 _https://www.youtube.com/watch?v=F1-
 
 **teil 2**
 
-- 11. b 
-- 12. c
-- 13. b
-- 14. a
-- 15. c
+- 11 b	X c 
+- 12 c  ✔
+- 13 b	✔
+- 14 a	✔
+- 15 c	✔
 
 **teil 3**
 
-- 16 falsch
-- 17 richtig
-- 18 richtig
-- 19 falsch
-- 20 richtig
-- 21 richtig
-- 22 falsch
+- 16 falsch	X richtig
+- 17 richtig	X falsch
+- 18 richtig	✔
+- 19 falsch	✔
+- 20 richtig	✔
+- 21 richtig	✔
+- 22 falsch	✔
 
 
