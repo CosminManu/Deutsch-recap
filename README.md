@@ -16,7 +16,8 @@
 
 
 
-##Practice
+## Practice
+
 Goethe Zertifikat B1 || Horen Model test 12 _https://www.youtube.com/watch?v=F1-IqWQ8EoM&list=PLxNPzeuPCA7BWJ8Uy5XaSkCdkhei21FhO&index=13_
 
 **teil 1**
@@ -39,6 +40,22 @@ Goethe Zertifikat B1 || Horen Model test 12 _https://www.youtube.com/watch?v=F1-
 	- 
 	-
 
+**teil 2**
 
+- 11. b 
+- 12. c
+- 13. b
+- 14. a
+- 15. c
+
+**teil 3**
+
+- 16 falsch
+- 17 richtig
+- 18 richtig
+- 19 falsch
+- 20 richtig
+- 21 richtig
+- 22 falsch
 
 
