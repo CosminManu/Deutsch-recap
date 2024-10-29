@@ -16,4 +16,29 @@
 
 
 
+##Practice
+Goethe Zertifikat B1 || Horen Model test 12 _https://www.youtube.com/watch?v=F1-IqWQ8EoM&list=PLxNPzeuPCA7BWJ8Uy5XaSkCdkhei21FhO&index=13_
+
+**teil 1**
+- text 1: 
+	- 1 falsch X richtig
+	- 2 b	   ✔ 
+- text 2: 
+	- 3 falsch ✔
+	- 4 c	   ✔
+- text 3: 
+	- 5 richtig X
+	- 6 c	   ✔
+- text 4: 
+	- 7 richtig X falsch
+	- 8 A	    X
+- text 5: 
+	- 9 richtig X falsch
+	- 10 b	    X C
+- text : 
+	- 
+	-
+
+
+
 
