@@ -64,77 +64,102 @@ Goethe Zertifikat B1 || Horen Model test 12 _https://www.youtube.com/watch?v=F1-
 ## Airport (Flughafen)
 1 with 2, 3 with 4
 
-- HR:
--1 Guten Tag! Sind Sie ...?
+---
 
--You:
--2 Ja, genau. Schön, Sie kennenzulernen! Sie sind Herr/Frau ...?
+**HR:**  
+1. Guten Tag! Sind Sie ...?  
+   _Good day! Are you ...?_
 
--HR:
--1 Ja, das bin ich. Willkommen in Deutschland! Wie war der Flug?
--3 Willkommen in Hannover! Wie war der Flug? Sie sind über Wien gekommen, oder?
+**You:**  
+2. Ja, genau. Schön, Sie kennenzulernen! Sie sind Herr/Frau ...?  
+   _Yes, that’s me! Nice to meet you, Mr./Ms. ..._
 
-You:
-2- Danke! Der Flug war gut, ein bisschen lang, aber sonst alles in Ordnung.
-4- Ja, genau, über Wien. Der Flug war angenehm, aber der Anschlussflug war etwas verspätet.
-- _Yes, exactly, via Vienna. The flight was pleasant, but the connecting flight was a bit delayed._
+**HR:**  
+1. Ja, das bin ich. Willkommen in Deutschland! Wie war der Flug?  
+   _Yes, that’s me. Welcome to Germany! How was the flight?_
 
+3. Willkommen in Hannover! Wie war der Flug? Sie sind über Wien gekommen, oder?  
+   _Welcome to Hannover! How was the flight? You came via Vienna, right?_
 
-HR:
-1- Schön zu hören! Haben Sie Ihr Gepäck schon?
-3- Oh, das kommt häufig vor. Aber schön, dass Sie jetzt gut angekommen sind! Wie war das Wetter in Bukarest?
-- _Oh, that happens often. But it’s good you’re here now! How was the weather in Bucharest?_
+**You:**  
+2. Danke! Der Flug war gut, ein bisschen lang, aber sonst alles in Ordnung.  
+   _Thank you! The flight was good, a bit long, but otherwise all fine._
 
-You:
-2- Ja, ich habe alles. Vielen Dank fürs Abholen.
-4- In Bukarest war es etwas wärmer als hier. Es ist schon spürbar kühler in Hannover.
-- _In Bucharest, it was a bit warmer than here. It’s noticeably cooler in Hannover._
+4. Ja, genau, über Wien. Der Flug war angenehm, aber der Anschlussflug war etwas verspätet.  
+   _Yes, exactly, via Vienna. The flight was pleasant, but the connecting flight was a bit delayed._
 
-HR:
-1- Gern geschehen. Wir werden zuerst ins Hotel fahren, damit Sie sich ein wenig erholen können. Brauchen Sie heute noch etwas Besonderes?
-3- Ja, hier wird es jetzt langsam herbstlich. Haben Sie sich darauf vorbereitet?
-- _Yes, it’s starting to feel like autumn here. Did you prepare for that?_
+**HR:**  
+1. Schön zu hören! Haben Sie Ihr Gepäck schon?  
+   _Nice to hear! Do you have your luggage already?_
 
+3. Oh, das kommt häufig vor. Aber schön, dass Sie jetzt gut angekommen sind! Wie war das Wetter in Bukarest?  
+   _Oh, that happens often. But it’s good you’re here now! How was the weather in Bucharest?_
 
-You:
-2- Danke, das klingt gut. Ich denke, ich brauche nur etwas Ruhe nach der Reise.
-4- Ja, ich habe schon wärmere Kleidung mitgenommen. Hoffentlich reicht das!
-- _Yes, I packed some warmer clothes. Hopefully, they’re enough!_
+**You:**  
+2. Ja, ich habe alles. Vielen Dank fürs Abholen.  
+   _Yes, I have everything. Thank you for picking me up._
 
-HR:
-1- Verständlich! Morgen haben wir dann ein kleines Willkommenstreffen im Büro. Sie werden das Team kennenlernen und eine Einführung erhalten.
-3- Bestimmt! Haben Sie Ihr Gepäck schon?
-- _For sure! Do you have your luggage already?_
+4. In Bukarest war es etwas wärmer als hier. Es ist schon spürbar kühler in Hannover.  
+   _In Bucharest, it was a bit warmer than here. It’s noticeably cooler in Hannover._
 
-You:
-2- Das freut mich. Gibt es etwas, das ich bis morgen vorbereiten sollte?
-4- Ja, ich habe alles hier. Vielen Dank nochmal fürs Abholen.
-- _Yes, I have everything here. Thank you again for picking me up._
+**HR:**  
+1. Gern geschehen. Wir werden zuerst ins Hotel fahren, damit Sie sich ein wenig erholen können. Brauchen Sie heute noch etwas Besonderes?  
+   _You're welcome. We’ll head to the hotel first so you can rest a bit. Do you need anything special today?_
 
+3. Ja, hier wird es jetzt langsam herbstlich. Haben Sie sich darauf vorbereitet?  
+   _Yes, it’s starting to feel like autumn here. Did you prepare for that?_
 
-HR:
-1- Nein, machen Sie sich keine Sorgen. Wir gehen alles Schritt für Schritt durch.
-3- Kein Problem. Wir fahren jetzt nach Verden, das ist ungefähr eine Stunde Fahrt von hier. Vielleicht haben Sie auch unterwegs Fragen zur Umgebung oder zur Arbeit.
-- _No problem. We’re heading to Verden now; it’s about an hour’s drive from here. You might have questions about the area or the job on the way._
+**You:**  
+2. Danke, das klingt gut. Ich denke, ich brauche nur etwas Ruhe nach der Reise.  
+   _Thanks, that sounds good. I think I just need some rest after the trip._
 
+4. Ja, ich habe schon wärmere Kleidung mitgenommen. Hoffentlich reicht das!  
+   _Yes, I packed some warmer clothes. Hopefully, they’re enough!_
 
-You:
-2- Perfekt. Vielen Dank!
-4- Gerne, das klingt gut! Ich freue mich schon, die Gegend besser kennenzulernen.
-- _Sure, that sounds great! I’m looking forward to getting to know the area._
+**HR:**  
+1. Verständlich! Morgen haben wir dann ein kleines Willkommenstreffen im Büro. Sie werden das Team kennenlernen und eine Einführung erhalten.  
+   _Understandable! Tomorrow, we’ll have a small welcome meeting at the office. You’ll meet the team and have an introduction._
 
+3. Bestimmt! Haben Sie Ihr Gepäck schon?  
+   _For sure! Do you have your luggage already?_
 
-HR:
-1- Also, dann los! Wir haben etwa eine halbe Stunde Fahrt vor uns.
-3- Das werden Sie bestimmt! Wir haben in Verden gerade ein bisschen besseres Wetter als hier in Hannover.
-- _You certainly will! We’re actually having slightly better weather in Verden than here in Hannover._
+**You:**  
+2. Das freut mich. Gibt es etwas, das ich bis morgen vorbereiten sollte?  
+   _I’m looking forward to it. Is there anything I should prepare for tomorrow?_
 
+4. Ja, ich habe alles hier. Vielen Dank nochmal fürs Abholen.  
+   _Yes, I have everything here. Thank you again for picking me up._
 
-You:
-2- Alles klar, vielen Dank.
-4- Ah, das hört sich gut an!
+**HR:**  
+1. Nein, machen Sie sich keine Sorgen. Wir gehen alles Schritt für Schritt durch.  
+   _No, don’t worry. We’ll go through everything step by step._
 
-HR:
-3- Also, los geht’s!
+3. Kein Problem. Wir fahren jetzt nach Verden, das ist ungefähr eine Stunde Fahrt von hier. Vielleicht haben Sie auch unterwegs Fragen zur Umgebung oder zur Arbeit.  
+   _No problem. We’re heading to Verden now; it’s about an hour’s drive from here. You might have questions about the area or the job on the way._
+
+**You:**  
+2. Perfekt. Vielen Dank!  
+   _Perfect. Thank you very much!_
+
+4. Gerne, das klingt gut! Ich freue mich schon, die Gegend besser kennenzulernen.  
+   _Sure, that sounds great! I’m looking forward to getting to know the area._
+
+**HR:**  
+1. Also, dann los! Wir haben etwa eine halbe Stunde Fahrt vor uns.  
+   _Alright, let’s go! We have about a half-hour drive ahead._
+
+3. Das werden Sie bestimmt! Wir haben in Verden gerade ein bisschen besseres Wetter als hier in Hannover.  
+   _You certainly will! We’re actually having slightly better weather in Verden than here in Hannover._
+
+**You:**  
+2. Alles klar, vielen Dank.  
+   _Alright, thank you._
+
+4. Ah, das hört sich gut an!  
+   _Ah, that sounds nice!_
+
+**HR:**  
+3. Also, los geht’s!  
+   _Alright, let’s go!_
 
 
