@@ -140,3 +140,88 @@ Goethe Zertifikat B1 || Horen Model test 12 _https://www.youtube.com/watch?v=F1-
 3. Also, los geht’s!  
 
 
+
+
+---
+## Drive to Verden Conversation
+
+During the drive from Hannover Airport to Verden, the conversation covers topics like the local area, workplace details, and general plans for settling in.
+
+
+**HR:**  
+1. Verden ist eine kleine Stadt, aber sehr schön und gemütlich. Haben Sie schon von der Gegend gehört?    _Verden is a small town, but very beautiful and cozy. Have you heard about the area?_
+
+
+**You:**  
+2. Ja, ich habe etwas darüber gelesen. Es soll sehr grün sein, oder?    _Yes, I read a bit about it. It’s supposed to be very green, right?_
+ 
+4. Nein, nicht viel. Können Sie mir etwas über die Stadt erzählen?      _No, not much. Could you tell me a bit about the town?_
+
+
+**HR:**  
+1. Genau! Verden liegt inmitten von Natur und ist bekannt für seine Parks und die Pferdezucht.    _Exactly! Verden is surrounded by nature and is known for its parks and horse breeding._
+
+3. Natürlich! Es ist eine historische Stadt, besonders bekannt für Pferdezucht und die vielen Grünflächen.    _Of course! It’s a historic town, especially known for horse breeding and its many green spaces._
+
+
+**You:**  
+2. Das klingt wunderbar. Ich mag ruhige, grüne Orte, besonders wenn ich arbeiten muss.    _That sounds wonderful. I like quiet, green places, especially when I have to work._
+
+4. Das klingt toll! Gibt es Freizeitaktivitäten, die Sie empfehlen würden?         _That sounds great! Are there any leisure activities you would recommend?_
+
+**HR:**  
+1. Ja, auf jeden Fall! Es gibt schöne Rad- und Wanderwege, und man kann in der Umgebung sehr gut essen.   _There are lovely cycling and hiking trails, and the area has great food._
+
+3. Natürlich! Neben Wandern und Radfahren gibt es auch kulturelle Veranstaltungen und Restaurants mit guter deutscher Küche.  _Besides hiking and biking, are cultural events, restaurants with good German cuisine._
+
+**You:**  
+2. Das klingt interessant. Und wie weit ist es von Bremen?   	      _And how far is it from Bremen?_
+
+4. Danke für den Tipp! Ich freue mich schon, die Gegend zu erkunden.  _I’m looking forward to exploring the area._
+
+**HR:**  
+1. Bremen ist nur etwa 30 Minuten entfernt. Sie könnten dort auch ein Wochenende verbringen.  _Bremen is only about 30 minutes away. You could spend a weekend there too._
+
+3. Es ist nicht weit – etwa eine halbe Stunde Fahrt. Bremen ist sehr schön, besonders die Altstadt und der Hafen.  _half-hour drive. Bremen is very beautiful, the old town and the harbor._
+
+**You:**  
+2. Das klingt nach einer guten Idee! Gibt es etwas, das ich für den ersten Tag im Büro vorbereiten sollte?   _Is there anything I should prepare for the first day at the office?_
+
+4. Ich werde mir das merken! Und könnte ich vielleicht morgen schon ein paar Kollegen kennenlernen?      _I’ll keep that in mind! And could I maybe meet a few colleagues tomorrow?_
+
+**HR:**  
+1. Ja, wir planen eine kurze Vorstellungsrunde mit dem Team, und danach werden wir Ihnen das Büro zeigen.   _Yes, we’re planning a short intro with team, and then we’ll show you the office._
+
+3. Ja, morgen machen wir eine kleine Einführung und Sie werden das Team kennenlernen. Es wird ganz entspannt. _Yes, tomorrow we’ll have a small orientation, and you’ll meet the team. It’ll be relaxed._
+
+**You:**  
+2. Perfekt, das hört sich gut an. Gibt es eine spezielle Kultur im Büro, auf die ich achten sollte?  _Perfect, that sounds good. Is there a specific office culture I should be aware of?_
+
+4. Super, danke! Ich freue mich schon, das Team kennenzulernen und das Büro zu sehen.            _Great, thanks! I’m looking forward to meeting the team and seeing the office._
+
+**HR:**  
+1. Wir legen Wert auf Teamarbeit und offene Kommunikation. Sie werden sicher schnell Anschluss finden.   _We value teamwork and open communication. You’ll settle in quickly._
+
+3. Die Atmosphäre ist entspannt und kollegial. Sie werden bald ein Teil des Teams sein!  
+   _The atmosphere is relaxed and friendly. You’ll be part of the team in no time!_
+
+**You:**  
+2. Das ist schön zu hören. Vielen Dank für all die Informationen!              _That’s nice to hear. Thank you for all the information!_
+
+4. Klingt toll! Vielen Dank, dass Sie mir alles so ausführlich erklären.      _Sounds great! Thank you for explaining everything so thoroughly._
+
+**HR:**  
+1. Sehr gerne! Wenn Sie weitere Fragen haben, können Sie sich jederzeit an uns wenden.   _You’re very welcome! If you have any other questions, feel free to reach out anytime._
+
+3. Kein Problem! Wir sind hier, um zu helfen.   _No problem! We’re here to help._
+
+**You:**  
+2. Danke, das weiß ich zu schätzen.           _Thank you, I appreciate it._
+
+4. Vielen Dank, das ist gut zu wissen.       _Thank you, that’s good to know._
+
+
+
+
+
+
