@@ -64,15 +64,15 @@ Goethe Zertifikat B1 || Horen Model test 12 _https://www.youtube.com/watch?v=F1-
 ## Airport (Flughafen)
 1 with 2, 3 with 4
 
-HR:
-1- Guten Tag! Sind Sie ...?
+- HR:
+-1 Guten Tag! Sind Sie ...?
 
-You:
-2- Ja, genau. Schön, Sie kennenzulernen! Sie sind Herr/Frau ...?
+-You:
+-2 Ja, genau. Schön, Sie kennenzulernen! Sie sind Herr/Frau ...?
 
-HR:
-1- Ja, das bin ich. Willkommen in Deutschland! Wie war der Flug?
-3- Willkommen in Hannover! Wie war der Flug? Sie sind über Wien gekommen, oder?
+-HR:
+-1 Ja, das bin ich. Willkommen in Deutschland! Wie war der Flug?
+-3 Willkommen in Hannover! Wie war der Flug? Sie sind über Wien gekommen, oder?
 
 You:
 2- Danke! Der Flug war gut, ein bisschen lang, aber sonst alles in Ordnung.
