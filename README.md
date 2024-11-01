@@ -222,6 +222,135 @@ During the drive from Hannover Airport to Verden, the conversation covers topics
 
 
 
+---
+
+# Arrival at office
+
+After arriving at the office in Verden, the conversation includes introductions with the team, collecting work equipment, and a brief orientation. Each line has both German and English translations.
+
+---
+
+**HR:**  
+1. Willkommen im Büro! Wir haben schon ein paar Kollegen informiert, dass Sie heute ankommen.  
+   _Welcome to the office! We’ve already informed a few colleagues that you’re arriving today._
+
+**You:**  
+2. Danke, ich freue mich, das Team zu treffen.  
+   _Thank you, I’m looking forward to meeting the team._
+
+4. Super, ich bin gespannt, alle kennenzulernen.  
+   _Great, I’m excited to meet everyone._
+
+**HR:**  
+1. Schauen wir mal, ob Herr/Frau ... hier ist. Sie wird Ihnen heute helfen, Ihre Geräte und alles Notwendige zu bekommen.  
+   _Let’s see if Mr./Ms. ... is here. They’ll help you get your devices and everything you need today._
+
+3. Ich stelle Ihnen auch gerne gleich Herrn/Frau ... vor. Sie hilft Ihnen mit der Ausstattung und allem, was Sie brauchen.  
+   _I’ll also introduce you to Mr./Ms. ... right away. They’ll assist you with your equipment and everything you need._
+
+**You:**  
+2. Vielen Dank! Ich bin gespannt, mein Setup zu bekommen.  
+   _Thank you! I’m excited to get my setup._
+
+4. Perfekt, ich freue mich schon, alles zu organisieren.  
+   _Perfect, I’m looking forward to getting everything organized._
+
+---
+
+### Meeting a Colleague (e.g., IT/Equipment Manager)
+
+**Colleague:**  
+1. Hallo! Schön, Sie kennenzulernen. Ich bin ... und helfe Ihnen mit der Ausstattung.  
+   _Hello! Nice to meet you. I’m ... and I’ll help you with your equipment._
+
+3. Guten Tag! Ich bin ... und werde Ihnen die Geräte und Ihr Bürosetup zeigen.  
+   _Good day! I’m ... and I’ll show you the devices and your office setup._
+
+**You:**  
+2. Hallo, freut mich sehr! Ich bin ..., und danke für Ihre Unterstützung.  
+   _Hello, very pleased to meet you! I’m ..., and thank you for your help._
+
+4. Hallo! Vielen Dank für die Unterstützung. Ich bin gespannt, mein neues Arbeitssetup zu sehen.  
+   _Hello! Thank you for the help. I’m looking forward to seeing my new work setup._
+
+**Colleague:**  
+1. Gerne. Hier ist Ihr Laptop, die Maus und eine Dockingstation. Fehlt Ihnen noch etwas?  
+   _You’re welcome. Here is your laptop, mouse, and a docking station. Is there anything else you need?_
+
+3. Kein Problem! Hier haben Sie Ihren Laptop, die Maus, Tastatur und ein Headset. Brauchen Sie sonst noch etwas?  
+   _No problem! Here you have your laptop, mouse, keyboard, and a headset. Do you need anything else?_
+
+**You:**  
+2. Das ist perfekt, danke! Vielleicht ein Ladekabel für den Laptop?  
+   _That’s perfect, thank you! Maybe a charger for the laptop?_
+
+4. Danke, das ist super. Ich denke, das sollte alles sein, vielleicht noch das Ladekabel?  
+   _Thank you, that’s great. I think that’s everything—perhaps the charger, too?_
+
+**Colleague:**  
+1. Natürlich! Hier ist das Ladekabel. Möchten Sie auch eine Einführung in das Netzwerk und die Software?  
+   _Of course! Here’s the charger. Would you like an introduction to the network and software as well?_
+
+3. Selbstverständlich! Hier ist das Ladegerät. Ich zeige Ihnen dann auch, wie Sie ins Netzwerk kommen und die wichtigsten Programme nutzen.  
+   _Certainly! Here’s the charger. I’ll also show you how to connect to the network and use the essential programs._
+
+**You:**  
+2. Ja, das wäre sehr hilfreich, danke. Gibt es bestimmte Zugangsdaten, die ich brauche?  
+   _Yes, that would be very helpful, thank you. Are there specific login details I’ll need?_
+
+4. Ja, danke! Eine kurze Einführung wäre super. Ich nehme an, es gibt Zugangsdaten für das Netzwerk?  
+   _Yes, thank you! A quick introduction would be great. I assume there are login details for the network?_
+
+**Colleague:**  
+1. Genau, hier sind die Zugangsdaten für das Netzwerk und Ihre E-Mail. Wir können auch eine kleine Tour durch das Büro machen, wenn Sie möchten.  
+   _Exactly, here are the login details for the network and your email. We can also do a quick tour of the office if you’d like._
+
+3. Hier sind die Details für das Netzwerk und Ihr E-Mail-Account. Wenn Sie möchten, zeige ich Ihnen auch kurz die Räumlichkeiten.  
+   _Here are the details for the network and your email account. If you’d like, I can give you a quick tour of the premises._
+
+**You:**  
+2. Sehr gerne, das wäre toll! Es hilft, alles schon mal zu sehen.  
+   _Sure, that would be great! It helps to see everything beforehand._
+
+4. Das wäre klasse, danke. Ich finde es immer gut, sich im Büro etwas umzusehen.  
+   _That would be wonderful, thanks. I always find it helpful to get a feel for the office._
+
+---
+
+### Quick Office Tour and Final Remarks
+
+**Colleague:**  
+1. Hier sind unsere Meetingräume. Sie können diese jederzeit reservieren. Die Küche und der Pausenraum sind hier rechts.  
+   _Here are our meeting rooms. You can reserve them at any time. The kitchen and break room are to the right._
+
+3. Das ist unser Konferenzbereich. Sie können bei Bedarf reservieren. Die Kaffeeküche ist hier drüben, und weiter hinten ist der Pausenraum.  
+   _This is our conference area. You can reserve it as needed. The coffee kitchen is over here, and the break room is further back._
+
+**You:**  
+2. Danke für die Info! Es ist wirklich ein schönes Büro.  
+   _Thank you for the information! It’s really a nice office._
+
+4. Super, danke! Das Büro ist wirklich gut eingerichtet.  
+   _Great, thanks! The office is really well set up._
+
+**Colleague:**  
+1. Sehr gerne. Falls Sie Fragen haben, können Sie jederzeit auf mich zukommen. Ich bin meistens hier im IT-Bereich.  
+   _You’re very welcome. If you have any questions, feel free to reach out. I’m usually here in the IT area._
+
+3. Kein Problem! Bei Fragen können Sie sich gerne melden. Ich bin meistens hier im Büro.  
+   _No problem! If you have any questions, feel free to ask. I’m usually here in the office._
+
+**You:**  
+2. Vielen Dank für alles. Ich denke, das sollte für den Start reichen.  
+   _Thank you for everything. I think that should be enough to start._
+
+4. Vielen Dank! Das hilft wirklich sehr. Ich denke, ich bin gut vorbereitet.  
+   _Thank you! That’s really helpful. I think I’m well prepared._
+
+---
+
+
+
 
 
 
